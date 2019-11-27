@@ -1,0 +1,1 @@
+# SNOMED_CT-vocabulary-extracting
